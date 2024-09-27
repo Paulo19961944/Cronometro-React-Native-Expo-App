@@ -6,7 +6,7 @@ Este é um projeto feito com Expo que serve como um cronômetro simples.
 
 1. Clone este repositório:
    ```bash
-   https://github.com/Paulo19961944/Cronometro-React-Native-Expo-App
+   https://github.com/SEU_USUARIO/Cronometro-React-Native-Expo-App
    cd Cronometro-React-Native-Expo-App
 2. Instale as Dependencias
    ```bash
