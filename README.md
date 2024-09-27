@@ -14,7 +14,10 @@ Este é um projeto feito com Expo que serve como um cronômetro simples.
 3. Instale o Expo CLI
    ```bash
    npm install -g expo-cli
-4. Inicialize o Projeto
+4. Instale o Expo Font
+   ```bash
+   npm install expo-font
+5. Inicialize o Projeto
    ```bash
    npm start
 
